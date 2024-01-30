@@ -24,7 +24,7 @@
 javac -d out -sourcepath .\src\main\java\ .\src\main\java\Sample\Main.java
 ```
 
-![picture command javac](.\target\classes\Javac.png)
+![picture command javac](https://github.com/AlexeyGlushkov1982/java_1/blob/main/Java_core_seminar1-main/src/main/resources/Javac.png)
 
 2. Команда:
 
