@@ -1,6 +1,6 @@
 ﻿# Java Core (семинары)
 
-![picture for project](./src/main/resourses/Java_core.jpg)
+![picture for project]([./src/main/resourses/Java_core.jpg](https://github.com/AlexeyGlushkov1982/java_1/blob/main/Java_core_seminar1-main/src/main/resources/Java.png))
 
 ## Урок 1. Компиляция и интерпретация кода
 
