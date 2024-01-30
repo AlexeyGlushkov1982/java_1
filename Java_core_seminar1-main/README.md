@@ -1,6 +1,6 @@
 ﻿# Java Core (семинары)
 
-![picture for project](https://github.com/AlexeyGlushkov1982/java_1/blob/main/Java_core_seminar1-main/src/main/resources/Java.png)
+![picture for project](https://github.com/AlexeyGlushkov1982/java_1/blob/main/Java_core_seminar1-main/src/main/resources/Java_core.jpg)
 
 ## Урок 1. Компиляция и интерпретация кода
 
@@ -10,7 +10,7 @@
 
 *Введите заметку: Hello, world!*
 
-*Дозапись в файл: 16.07.2023 -> Hello, world*
+*Дозапись в файл: 16.01.2024 -> Hello, world*
 
 Скомпилируйте и запустите посредством CLI
 
